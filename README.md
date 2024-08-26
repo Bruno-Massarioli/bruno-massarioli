@@ -1,4 +1,4 @@
-                            👋 Olá! Eu sou o Bruno!!
+👋 Olá! Eu sou o Bruno!!
 -----
 Graduando em Astronomia na Universidade de São Paulo
 - 👀 I’m interested in ...
