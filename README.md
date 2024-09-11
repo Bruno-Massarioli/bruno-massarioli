@@ -1,10 +1,10 @@
 👋 Olá! Eu sou o Bruno!!
 -----
 Graduando em Astronomia na Universidade de São Paulo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+- 👀 Estou interessado em Machine Learning, Deep Learning e Engenharia de Software
+- 🌱 Atualmente estou aplicando algoritmo de Machine Learning em Astronomia
+- 💞️ Estou trabalhando em algoritmos para detecção de fusão de galaxias 
+- ⚡ 
   
 
 <!---
