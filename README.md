@@ -2,8 +2,7 @@
 -----
 Graduando em Astronomia na Universidade de São Paulo
 - 👀 Estou interessado em Machine Learning, Deep Learning e Engenharia de Software
-- 🌱 Atualmente estou aplicando algoritmo de Machine Learning em Astronomia
-- 💞️ Estou trabalhando em algoritmos para detecção de fusão de galaxias 
+- 🌱 Atualmente estou aplicando algoritmo de Machine Learning em Astronomia para detecção de fusão de galáxias
 - ⚡ 
   
 
