@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Bruno</h1>
-<h3 align="center">undergraduate research in extragalactic astrophysics, also working with Data Science and Programming (profile under construction) </h3>
+<h3 align="center">Undergraduate research in Extragalactic Astrophysics at the University of São Paulo and also working with Data Science and Programming (profile under construction) </h3>
 
 
 - 🔭 I am working on a Machine Learning algorithm in Astronomy to analyze kinematic asymmetry, dispersion and rotation indices, and evaluate the performance of models in identifying dynamic features in galaxy mergers.
@@ -11,15 +11,12 @@
 - 💬 Ask me about Machine Learning, Artificial Intelligence, Data Science.
 
 
-
-  
 <h2 id="️-my-tech-stacks">🛠️ &nbsp;My Tech Stacks</h2>
 <p><img src="https://img.shields.io/badge/-HTML-0D1117?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-0D1117?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
-<img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat&amp;logo=typescript" alt="TypeScript">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;
-<img src="https://img.shields.io/badge/-C++-0D1117?style=flat&amp;logo=C%2B%2B" alt="C%2B%2B">&nbsp;
+<img src="https://img.shields.io/badge/-C++-0D1117?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C%2B%2B">&nbsp;
 <img src="https://img.shields.io/badge/-MySql-0D1117?style=flat&amp;logo=mysql" alt="mysql">&nbsp;
 <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&amp;logo=postgresql" alt="PostgreSQL">&nbsp;
 <img src="https://img.shields.io/badge/-Python-0D1117?style=flat&amp;logo=python" alt="Python">&nbsp;
