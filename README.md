@@ -6,7 +6,7 @@
 
 - 🌱 Currently, I am learning machine learning, deep learning, and JavaScript.
 
-- 👀 I am interested in Artificial Intelligence, Software Engineering, Data Science, and Web Development 
+- 👀 I am interested in Machine Learning, Artificial Intelligence, Software Engineering, Data Science and Web Development 
 
 - 💬 Ask me about Machine Learning, Artificial Intelligence, Data Science.
 
