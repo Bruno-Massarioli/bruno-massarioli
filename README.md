@@ -11,7 +11,7 @@
 - 💬 Ask me about Machine Learning, Artificial Intelligence, Data Science.
 
 
-<h2 id="️-my-tech-stacks">🛠️ &nbsp;My Tech Stacks</h2>
+<h2 id="️-languages-and-tools">🛠️ &nbsp;languages ​​and tools</h2>
 <p><img src="https://img.shields.io/badge/-HTML-0D1117?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
 <img src="https://img.shields.io/badge/-CSS-0D1117?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
