@@ -4,7 +4,7 @@
 
 - 🔭 I am working on a Machine Learning algorithm in Astronomy to analyze kinematic asymmetry, dispersion and rotation indices, and evaluate the performance of models in identifying dynamic features in galaxy mergers.
 
-- 🌱 Currently, I am learning machine learning, deep learning, and JavaScript.
+- 🌱 Currently, I am learning JavaScript and deep learning
 
 - 👀 I am interested in Machine Learning, Artificial Intelligence, Software Engineering, Data Science and Web Development 
 
