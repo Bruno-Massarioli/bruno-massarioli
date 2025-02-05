@@ -32,7 +32,7 @@
     <img width="450" height="170" align="center" alt="bruno-massarioli" src="https://github-readme-stats.vercel.app/api?username=bruno-massarioli&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true">
   </a>
   <a href="https://github.com/bruno-massarioli">
-    <img align="center" alt="bruno-massarioli" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-massarioli&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true">
+    <img align="center" alt="bruno-massarioli" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-massarioli&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true&cache_seconds=1800">
   </a>
 </div>
 <div>
