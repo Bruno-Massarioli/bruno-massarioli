@@ -12,7 +12,7 @@
 
 
 <h2 id="️-languages-and-tools">🛠️ &nbsp;languages ​​and tools</h2>
-<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
+<p><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;
 <img src="https://img.shields.io/badge/-C++-0D1117?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C%2B%2B">&nbsp;
 <img src="https://img.shields.io/badge/-MySql-0D1117?style=flat&amp;logo=mysql" alt="mysql">&nbsp;
