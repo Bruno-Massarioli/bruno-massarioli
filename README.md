@@ -12,8 +12,6 @@
 
 
 <h2 id="️-languages-and-tools">🛠️ &nbsp;languages ​​and tools</h2>
-<p><img src="https://img.shields.io/badge/-HTML-0D1117?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-0D1117?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-0D1117?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;
 <img src="https://img.shields.io/badge/-C++-0D1117?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C%2B%2B">&nbsp;
