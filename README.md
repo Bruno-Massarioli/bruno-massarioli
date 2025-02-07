@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I am Bruno</h1>
-<h3 align="center">Undergraduate research in Extragalactic Astrophysics at the University of São Paulo and also working with Data Science and Programming (profile under construction) </h3>
+<h3 align="center">Undergraduate research in Extragalactic Astrophysics at the University of São Paulo and also studying Data Science and Programming (profile under construction) </h3>
 
 
 - 🔭 I am working on a Machine Learning algorithm in Astronomy to analyze kinematic asymmetry, dispersion and rotation indices, and evaluate the performance of models in identifying dynamic features in galaxy mergers.
